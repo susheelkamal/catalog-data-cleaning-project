@@ -1,0 +1,7 @@
+# Create project folder structure
+mkdir catalog-data-cleaning-project
+cd catalog-data-cleaning-project
+mkdir data scripts outputs screenshots
+
+# Install required Python packages
+pip install pandas numpy matplotlib seaborn jupyter
